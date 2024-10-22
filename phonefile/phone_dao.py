@@ -13,11 +13,4 @@ def list():
             print(f"{index}. {name.strip():<6} {hp.strip():<17} {company.strip():<17}")
 
 
-
-
-
-
-
-
-if __name__ == "__main__":
-    print(list())
+#2번 등록
