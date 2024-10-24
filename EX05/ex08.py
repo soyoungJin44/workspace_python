@@ -21,7 +21,7 @@ import EX05.chat_dao as chat_dao
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
-#openai_key = "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"
+
 
 client = OpenAI(api_key = openai_api_key)
 
